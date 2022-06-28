@@ -3,8 +3,9 @@
 社交平台上通过拼音首字母缩写指代特定词句的情况越来越多，为了让常人勉强能理解这一门另类沟通方式、做了这一个划词翻译油猴脚本。
 
 ## 独立网页版本
-https://lab.magiconch.com/nbnhhsh/
+https://jiji.pro/nbnhhsh/ (GitHub Pages)
 
+https://lab.magiconch.com/nbnhhsh/
 
 ## 安装脚本
 安装好用户脚本浏览器插件之后，访问 [nbnhhsh.user.js](https://github.com/itorr/nbnhhsh/raw/master/nbnhhsh.user.js) 完成脚本安装
