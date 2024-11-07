@@ -3,7 +3,7 @@
 社交平台上通过拼音首字母缩写指代特定词句的情况越来越多，为了让常人勉强能理解这一门另类沟通方式、做了这一个划词翻译油猴脚本。
 
 ## 独立网页版本
-https://jiji.pro/nbnhhsh/ (GitHub Pages)
+https://std.ac/nbnhhsh/ (GitHub Pages)
 
 https://lab.magiconch.com/nbnhhsh/
 
